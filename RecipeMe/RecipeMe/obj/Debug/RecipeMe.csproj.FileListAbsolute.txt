@@ -1,0 +1,17 @@
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.csprojResolveAssemblyReference.cache
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.MainPage.xaml.g.cs
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.App.xaml.g.cs
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.AzureTable.xaml.g.cs
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.CustomVision.xaml.g.cs
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\RecipeMe.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\RecipeMe.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.pdb
