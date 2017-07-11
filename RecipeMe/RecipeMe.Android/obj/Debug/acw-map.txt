@@ -2,6 +2,14 @@ RecipeMe.Droid.MainActivity, RecipeMe.Android;md562fd48f6fa02f072d725d6d415fe88f
 RecipeMe.Droid.MainActivity, RecipeMe.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md562fd48f6fa02f072d725d6d415fe88f9.MainActivity
 RecipeMe.Droid.MainActivity;md562fd48f6fa02f072d725d6d415fe88f9.MainActivity
 recipeme.droid.MainActivity;md562fd48f6fa02f072d725d6d415fe88f9.MainActivity
+RecipeMe.Droid.MainApplication, RecipeMe.Android;md562fd48f6fa02f072d725d6d415fe88f9.MainApplication
+RecipeMe.Droid.MainApplication, RecipeMe.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md562fd48f6fa02f072d725d6d415fe88f9.MainApplication
+RecipeMe.Droid.MainApplication;md562fd48f6fa02f072d725d6d415fe88f9.MainApplication
+recipeme.droid.MainApplication;md562fd48f6fa02f072d725d6d415fe88f9.MainApplication
+Plugin.Media.MediaPickerActivity, Plugin.Media;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
+Plugin.Media.MediaPickerActivity, Plugin.Media, Version=2.6.2.0, Culture=neutral, PublicKeyToken=null;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
+Plugin.Media.MediaPickerActivity;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
+plugin.media.MediaPickerActivity;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

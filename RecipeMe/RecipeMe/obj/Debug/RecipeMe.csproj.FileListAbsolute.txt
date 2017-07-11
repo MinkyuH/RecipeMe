@@ -15,3 +15,9 @@ C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xa
 C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.dll
 C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Plugin.Media.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Plugin.Media.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Plugin.Media.xml
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Plugin.Media.Abstractions.xml
