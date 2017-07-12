@@ -71,3 +71,11 @@ C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\
 C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.Android.dll.config
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.dll.config
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kan02\OneDrive\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\System.Net.Http.Primitives.xml
