@@ -3,10 +3,7 @@
 	<StackLayout Margin="20" Orientation="Vertical">
 		<Button Text="Take Photo and Analyze" Clicked="LoadCamera" />
 		<StackLayout Orientation="Horizontal">
-			<Label x:Name="TagLabel">
-			</Label>
-			<Label x:Name="PredictionLabel">
-			</Label>
+			<Label x:Name="TagLabel" />
 		</StackLayout>
 		<Image x:Name="image" Aspect="AspectFit"/>
 	</StackLayout>

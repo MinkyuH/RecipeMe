@@ -1,20 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace RecipeMe
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AzureTable : ContentPage
     {
         public AzureTable()
         {
             InitializeComponent();
         }
-    }
+
+		private async void IngredientHandler(object sender, EventArgs e)
+		{
+			var ingredient = AzureManager.AzureManagerInstance.GetIngredient();
+			List<recipeme123> ingredientInfo = await AzureManager.AzureManagerInstance.GetIngredientDetail();
+			IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient, ingredient)).OrderBy(p => p.RecipeType);
+		}
+	}
 }

@@ -13,7 +13,6 @@ using Xamarin.Forms.Xaml;
 
 namespace RecipeMe
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CustomVision : ContentPage
     {
         public CustomVision()
@@ -62,7 +61,7 @@ namespace RecipeMe
 
 			client.DefaultRequestHeaders.Add("Prediction-Key", "6b188bd282ac425a8e3755635c55f37e");
 
-			string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/34669e80-95d0-4bc7-8062-1f1d94f76082/image?iterationId=70aa188b-12a5-428e-9f5c-7c5cd235dc08";
+			string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/34669e80-95d0-4bc7-8062-1f1d94f76082/image?iterationId=104c2144-e892-4188-9fb5-12b3095a097d";
 
 			HttpResponseMessage response;
 
@@ -85,6 +84,7 @@ namespace RecipeMe
 
 					if (output_result.Probability > 0.5) {
 						TagLabel.Text = output_result.Tag;
+						AzureManager.AzureManagerInstance.SetIngredient(output_result.Tag);
 					}
 					else {
 						TagLabel.Text = "Doesn't exist in the database";
