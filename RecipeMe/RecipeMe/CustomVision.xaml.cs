@@ -61,7 +61,7 @@ namespace RecipeMe
 
 			client.DefaultRequestHeaders.Add("Prediction-Key", "6b188bd282ac425a8e3755635c55f37e");
 
-			string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/34669e80-95d0-4bc7-8062-1f1d94f76082/image?iterationId=104c2144-e892-4188-9fb5-12b3095a097d";
+			string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/34669e80-95d0-4bc7-8062-1f1d94f76082/image?iterationId=a7ea51b3-732b-4588-b424-3a2b7af7c800";
 
 			HttpResponseMessage response;
 

@@ -24816,16 +24816,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe.UWP\\RecipeMe.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe.UWP\\RecipeMe.UWP.csproj",
       "projectName": "RecipeMe.UWP",
-      "projectPath": "C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe.UWP\\RecipeMe.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe.UWP\\project.json",
+      "projectPath": "C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe.UWP\\RecipeMe.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\RecipeMe.csproj": {
-              "projectPath": "C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\RecipeMe.csproj"
+            "C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\RecipeMe.csproj": {
+              "projectPath": "C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\RecipeMe.csproj"
             }
           }
         }

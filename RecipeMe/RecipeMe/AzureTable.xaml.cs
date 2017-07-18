@@ -16,7 +16,7 @@ namespace RecipeMe
 		{
 			var ingredient = AzureManager.AzureManagerInstance.GetIngredient();
 			List<recipeme123> ingredientInfo = await AzureManager.AzureManagerInstance.GetIngredientDetail();
-			IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient, ingredient)).OrderBy(p => p.RecipeType);
+			IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient.ToLower(), ingredient.ToLower())).OrderBy(p => p.RecipeType);
 		}
 	}
 }

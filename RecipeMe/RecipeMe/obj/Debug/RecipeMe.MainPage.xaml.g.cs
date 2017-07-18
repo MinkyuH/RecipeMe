@@ -11,8 +11,7 @@
 namespace RecipeMe {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\MainPage.xaml" +
-        "")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
