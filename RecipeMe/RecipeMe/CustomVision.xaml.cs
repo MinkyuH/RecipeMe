@@ -15,7 +15,9 @@ namespace RecipeMe
 {
     public partial class CustomVision : ContentPage
     {
-        public CustomVision()
+
+		
+		public CustomVision()
         {
             InitializeComponent();
         }
@@ -39,6 +41,7 @@ namespace RecipeMe
 
             if (file == null)
                 return;
+			Globals.checker = true;
 
             image.Source = ImageSource.FromStream(() =>
             {

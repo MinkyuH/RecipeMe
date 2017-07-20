@@ -12,7 +12,7 @@
 							<StackLayout Orientation="Vertical">
 								<Label Text="{Binding RecipeType, StringFormat='Recipe Type: {0:N}'}" HorizontalOptions="FillAndExpand" Margin="0,20,0,0" />
 								<Label Text="{Binding RecipeDescription, StringFormat='Recipe Description:&#x0a;{0:N}'}" HorizontalOptions="FillAndExpand" Margin="0" />
-								<Label Text="{Binding RecipeLink, StringFormat='Recipe Link:&#x0a;{0:N}'}" HorizontalOptions="FillAndExpand" Margin="0,0,0,20" />
+								<Button Text="{Binding RecipeLink, StringFormat='Recipe Link:&#x0a;{0:N}'}" HorizontalOptions="FillAndExpand" Margin="0,0,0,20" Clicked="Button_Clicked" />
 							</StackLayout>
 						</ViewCell>
 					</DataTemplate>

@@ -14,4 +14,9 @@ namespace RecipeMe
             InitializeComponent();
         }
     }
+
+	public static class Globals
+	{
+		public static bool checker = false;
+	}
 }
