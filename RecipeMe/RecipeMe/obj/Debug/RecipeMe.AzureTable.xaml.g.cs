@@ -11,8 +11,7 @@
 namespace RecipeMe {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\AzureTable.xa" +
-        "ml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\AzureTable.xaml")]
     public partial class AzureTable : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

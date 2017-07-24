@@ -17,7 +17,7 @@ namespace RecipeMe
 		{
 			if (Globals.checker == false)
 			{
-				await DisplayAlert("It works", "nice", "dismiss");
+				await DisplayAlert("Error", "Please Take a picture first", "dismiss");
 			}
 			else
 			{
@@ -25,6 +25,15 @@ namespace RecipeMe
 				List<recipeme123> ingredientInfo = await AzureManager.AzureManagerInstance.GetIngredientDetail();
 				IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient.ToLower(), ingredient.ToLower())).OrderBy(p => p.RecipeType);
 			}
+		}
+
+		private void Button_Clicked(object sender, SelectedItemChangedEventArgs e)
+		{
+			if (e.SelectedItem == null)
+			{
+				return;
+			}
+			Device.OpenUri(new Uri(((recipeme123)e.SelectedItem).RecipeLink.ToString()));
 		}
 	}
 }

@@ -24,9 +24,13 @@ namespace RecipeMe
 			IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient.ToLower(), Search.Text.ToLower())).OrderBy(p => p.RecipeType);
 		}
 
-		private void Button_Clicked(object sender, EventArgs e)
+		private void Button_Clicked(object sender, SelectedItemChangedEventArgs e)
 		{
-			Device.OpenUri(new Uri("www.google.co.nz"));
+			if (e.SelectedItem == null)
+			{
+				return;
+			}
+			Device.OpenUri(new Uri(((recipeme123)e.SelectedItem).RecipeLink.ToString()));
 		}
 	}
 }

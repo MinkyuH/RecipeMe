@@ -61,7 +61,6 @@ C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.For
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.csproj.App.config
-C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.csprojResolveAssemblyReference.cache
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.MainPage.xaml.g.cs
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.App.xaml.g.cs
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.AzureTable.xaml.g.cs
@@ -69,3 +68,4 @@ C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.Cu
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.RecipeSearch.xaml.g.cs
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.dll
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.pdb
+C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe\obj\Debug\RecipeMe.csprojResolveAssemblyReference.cache

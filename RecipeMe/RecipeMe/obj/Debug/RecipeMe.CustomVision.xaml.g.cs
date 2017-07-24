@@ -11,8 +11,7 @@
 namespace RecipeMe {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\kan02\\OneDrive\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\CustomVision." +
-        "xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\kan02\\Documents\\GitHub\\RecipeMe\\RecipeMe\\RecipeMe\\CustomVision.xaml")]
     public partial class CustomVision : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

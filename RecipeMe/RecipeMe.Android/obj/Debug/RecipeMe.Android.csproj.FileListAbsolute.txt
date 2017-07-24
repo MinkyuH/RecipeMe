@@ -114,7 +114,6 @@ C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\Xam
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.pdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.dll.config
-C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.dll.mdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
@@ -157,6 +156,7 @@ C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\res
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\res\xml\file_paths.xml
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\R.cs.flag
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\uploadflags.txt
+C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.dll.mdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\bin\Debug\RecipeMe.Android.dll.mdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\kan02\Documents\GitHub\RecipeMe\RecipeMe\RecipeMe.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb

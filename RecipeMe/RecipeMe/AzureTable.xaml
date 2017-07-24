@@ -6,7 +6,7 @@
 	<ContentPage.Content>
 		<StackLayout Orientation="Vertical">
 			<Button Text="See Photo Information" TextColor="White" BackgroundColor="Red" Clicked="IngredientHandler" />
-			<ListView x:Name="IngredientList" HasUnevenRows="True">
+			<ListView x:Name="IngredientList" HasUnevenRows="True" ItemSelected="Button_Clicked">
 				<ListView.ItemTemplate>
 					<DataTemplate>
 						<ViewCell>
