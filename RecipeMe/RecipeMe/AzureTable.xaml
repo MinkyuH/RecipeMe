@@ -5,7 +5,8 @@
 	</ContentPage.Padding>
 	<ContentPage.Content>
 		<StackLayout Orientation="Vertical">
-			<Button Text="See Photo Information" TextColor="White" BackgroundColor="Red" Clicked="IngredientHandler" />
+			<Button Text="See Photo Recipe" TextColor="White" BackgroundColor="Red" Clicked="IngredientHandler" />
+			<ProgressBar x:Name="BarIndicator" IsVisible="False" IsEnabled="True"></ProgressBar>
 			<ListView x:Name="IngredientList" HasUnevenRows="True" ItemSelected="Button_Clicked">
 				<ListView.ItemTemplate>
 					<DataTemplate>

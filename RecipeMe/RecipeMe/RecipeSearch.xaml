@@ -5,6 +5,7 @@
 	<ContentPage.Content>
 		<StackLayout Margin="15" Orientation="Vertical">
 			<SearchBar x:Name="Search" Placeholder="Enter the name of ingredient" FontSize="Small" SearchButtonPressed="SearchBar_SearchButtonPressed" />
+			<ProgressBar x:Name="BarIndicator" IsVisible="False" IsEnabled="True"></ProgressBar>
 			<ListView x:Name="IngredientList" HasUnevenRows="True" ItemSelected="Button_Clicked">
 				<ListView.ItemTemplate>
 					<DataTemplate>

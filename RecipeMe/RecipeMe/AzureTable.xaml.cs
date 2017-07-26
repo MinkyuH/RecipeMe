@@ -21,9 +21,17 @@ namespace RecipeMe
 			}
 			else
 			{
+			
+				BarIndicator.IsVisible = true;
+
 				var ingredient = AzureManager.AzureManagerInstance.GetIngredient();
 				List<recipeme123> ingredientInfo = await AzureManager.AzureManagerInstance.GetIngredientDetail();
+
+				await BarIndicator.ProgressTo(1, 80, Easing.Linear);
 				IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient.ToLower(), ingredient.ToLower())).OrderBy(p => p.RecipeType);
+
+				BarIndicator.IsVisible = false;
+				BarIndicator.ProgressTo(0, 80, Easing.Linear);
 			}
 		}
 

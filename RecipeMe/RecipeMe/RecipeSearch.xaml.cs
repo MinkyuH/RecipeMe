@@ -20,8 +20,12 @@ namespace RecipeMe
 		private async void SearchBar_SearchButtonPressed(object sender, EventArgs e)
 		{
 			var ingredient = AzureManager.AzureManagerInstance.GetIngredient();
+			BarIndicator.IsVisible = true;
 			List<recipeme123> ingredientInfo = await AzureManager.AzureManagerInstance.GetIngredientDetail();
+			await BarIndicator.ProgressTo(1, 80, Easing.Linear);
 			IngredientList.ItemsSource = ingredientInfo.Where(p => String.Equals(p.MainIngredient.ToLower(), Search.Text.ToLower())).OrderBy(p => p.RecipeType);
+			BarIndicator.IsVisible = false;
+			BarIndicator.ProgressTo(0, 80, Easing.Linear);
 		}
 
 		private void Button_Clicked(object sender, SelectedItemChangedEventArgs e)

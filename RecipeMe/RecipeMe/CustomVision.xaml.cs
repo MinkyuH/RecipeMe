@@ -79,18 +79,32 @@ namespace RecipeMe
 
 				if (response.IsSuccessStatusCode)
 				{
+
+
+
+					
+
 					var responseString = await response.Content.ReadAsStringAsync();
 					EvaluationModel responseModel = JsonConvert.DeserializeObject<EvaluationModel>(responseString);
 					var probability = responseModel.Predictions.OrderByDescending(probabilityH => probabilityH.Probability);
 					var output_result = probability.Take(1).Single();
 
+					BarIndicator.IsVisible = true;
 
 					if (output_result.Probability > 0.5) {
 						TagLabel.Text = output_result.Tag;
 						AzureManager.AzureManagerInstance.SetIngredient(output_result.Tag);
+						await BarIndicator.ProgressTo(1, 80, Easing.Linear);
+						BarIndicator.IsVisible = false;
+						BarIndicator.ProgressTo(0, 80, Easing.Linear);
+
 					}
 					else {
+						await BarIndicator.ProgressTo(1, 80, Easing.Linear);
+
 						TagLabel.Text = "Doesn't exist in the database";
+						BarIndicator.IsVisible = false;
+						BarIndicator.ProgressTo(0, 80, Easing.Linear);
 					}
 
 				}
