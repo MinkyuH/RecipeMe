@@ -19,7 +19,7 @@ namespace RecipeMe
 			{
 				await DisplayAlert("Error", "Please Take a picture first", "dismiss");
 			}
-			else
+			else if (Globals.exist == true)
 			{
 			
 				BarIndicator.IsVisible = true;

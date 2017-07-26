@@ -97,7 +97,7 @@ namespace RecipeMe
 						await BarIndicator.ProgressTo(1, 80, Easing.Linear);
 						BarIndicator.IsVisible = false;
 						BarIndicator.ProgressTo(0, 80, Easing.Linear);
-
+						Globals.exist = true;
 					}
 					else {
 						await BarIndicator.ProgressTo(1, 80, Easing.Linear);

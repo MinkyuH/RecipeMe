@@ -18,5 +18,6 @@ namespace RecipeMe
 	public static class Globals
 	{
 		public static bool checker = false;
+		public static bool exist = false;
 	}
 }
